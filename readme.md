@@ -25,3 +25,5 @@ For more informations, check this [tutorial](https://dev.to/nanosoftonline/react
 - [gaearon/react-hot-loader](gaearon/react-hot-loader)
 - [React Hot Loader with Web Dev Server](https://dev.to/nanosoftonline/react-hot-loader-with-web-dev-server-aop)
 - [Set up React App with Webpack, Webpack Dev Server and Babel from scratch](https://medium.com/@imranhsayed/set-up-react-app-with-webpack-webpack-dev-server-and-babel-from-scratch-df398174446d)
+- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
+- [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
